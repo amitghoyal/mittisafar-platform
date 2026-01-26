@@ -38,3 +38,8 @@ A full-stack PHP/MySQL + Bootstrap platform designed to promote rural tourism, l
 1. Clone the repository:
    ```bash
    git clone https://github.com/amittghoyal/mittisafar-platform.git
+2. Move files into your XAMPP htdocs folder.
+3. Import database.sql into MySQL via phpMyAdmin.
+4. Configure config.php with your database and Razorpay credentials.
+5. Start Apache & MySQL in XAMPP.
+6. Visit http://localhost/mittisafar.
