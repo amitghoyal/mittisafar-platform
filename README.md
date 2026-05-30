@@ -61,8 +61,8 @@ A full-stack PHP/MySQL + Bootstrap platform designed to promote rural tourism, l
 ## Roadmap
 - [x] Traveler booking system  
 - [x] Host service management  
-- [ ] Razorpay payment integration (dummy)  
-- [ ] Email notifications for forget password  
+- [x] Razorpay payment integration (dummy)  
+- [x] Email notifications for forget password  
 
 ## Mission
 Empowering rural hosts, preserving heritage, and offering travelers an unforgettable journey into the soul of India.
